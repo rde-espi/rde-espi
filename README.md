@@ -43,7 +43,7 @@ A beauty, spa and wellness management solution integrating an ASP.NET Core REST 
 
 **Technologies:** C#, ASP.NET Core, Entity Framework Core, SQL Server, .NET MAUI
 
-[View Project](https://github.com/rde-espi/SalesCET105/tree/main/ProjetoFinalCet105.API)
+[View Project](https://github.com/rde-espi/InfinityBeauty)
 
 ### GestãoBiblioteca — ASP.NET Core MVC Application
 
