@@ -53,6 +53,14 @@ A library management system featuring authentication, book and author management
 
 [View Project](https://github.com/rde-espi/GestaoBiblioteca)
 
+### SuperShop — E-Commerce & Azure Integration
+
+A full-stack e-commerce application built with ASP.NET Core MVC, featuring product and order management, SQL Server integration, Azure Blob Storage and Xamarin/Prism mobile projects.
+
+**Technologies:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, Microsoft Azure, Xamarin/Prism
+
+[View Project](https://github.com/rde-espi/SuperShop)
+
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/reinaldoespindolasouza)
