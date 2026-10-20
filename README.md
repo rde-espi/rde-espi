@@ -1,6 +1,6 @@
 # Hi, I'm Reinaldo Espindola Souza 👋
 
-### Software Developer | C#/.NET | Android Automotive (Kotlin)
+### Software Developer | C#/.NET | Android | Android Automotive (Kotlin)
 
 I'm a Software Developer with professional experience developing Android Automotive OS applications for BMW/MINI at Critical Techworks, alongside hands-on experience building full-stack applications using C# and .NET.
 
